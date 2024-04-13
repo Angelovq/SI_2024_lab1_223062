@@ -1,0 +1,35 @@
+commit f41aca5fbd23f88f425355c1b315049bf77fd970
+Author: Ana <ana.angelova.1@students.finki.ukim.mk>
+Date:   Sat Apr 13 02:35:25 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 36d5b7c152fe42fae60499b36bd16456224e2f6a
+Author: Ana <ana.angelova.1@students.finki.ukim.mk>
+Date:   Sat Apr 13 02:29:46 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 90caf9c3495aa2ebf70078c8257ea7fd33f0a65f
+Author: Ana <ana.angelova.1@students.finki.ukim.mk>
+Date:   Sat Apr 13 02:31:54 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 698e5b607324dd7abcfbd990bb94e7f0802d7800
+Author: Ana <ana.angelova.1@students.finki.ukim.mk>
+Date:   Sat Apr 13 02:26:48 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 0cf7e8c8674aa9de84d8e4cce5a7aac50c1040b6
+Author: Ana <ana.angelova.1@students.finki.ukim.mk>
+Date:   Sat Apr 13 02:18:50 2024 +0200
+
+    Add starter code
+
+commit e82838b79c552cb8333e06079d95edb2dcecd8a4
+Author: Ana <ana.angelova.1@students.finki.ukim.mk>
+Date:   Sat Apr 13 02:08:07 2024 +0200
+
+    Initial commit
